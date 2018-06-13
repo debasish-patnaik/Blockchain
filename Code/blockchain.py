@@ -3,7 +3,6 @@ import json
 from time import time
 from uuid import uuid4
 
-from textwrap import dedent
 from flask import Flask
 from flask import jsonify, request
 from urllib.parse import urlparse
