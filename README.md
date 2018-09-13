@@ -1,6 +1,6 @@
 ### Blockchain
 
-A simple Blockchain in Python.
+A simple Blockchain implementation in Python.
 
 ### What is this?
 
